@@ -1,5 +1,5 @@
 function githubProjectLink() {
-  const projectName = 'infinite-scrolling';
+  const projectName = 'infinite-scroll';
   const githubUrl = 'https://github.com/meleu/js-practice/tree/master';
   window.open(`${githubUrl}/${projectName}`, '_blank');
 }
