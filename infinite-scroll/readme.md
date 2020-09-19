@@ -1,5 +1,5 @@
 # infinite-scroll
-Loading images from Lorem Picsum in an infinite scrolling page.
+Loading images from ~~Unsplash~~ Lorem Picsum in an infinite scrolling page.
 
 Check it alive here: <https://meleu.github.io/js-practice/infinite-scroll>
 
