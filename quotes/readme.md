@@ -1,5 +1,5 @@
 # quotes
-A Quote Generator
+A Quote Generator.
 
 Check it alive here: <https://meleu.github.io/js-practice/quotes>
 
