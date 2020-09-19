@@ -1,24 +1,30 @@
-# Quotes - A Quote Generator
+# quotes
+A Quote Generator
 
 Check it alive here: <https://meleu.github.io/js-practice/quotes>
 
 ## Things I Learned
 
-### <http://heropatterns.com>
+### Using the Fetch API
 
-Go to <http://heropatterns.com> and choose a nice svg background pattern.
-
-Copy the code and paste in the body part of the css file.
+<https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API>
 
 
-### <https://cors-anywhere.herokuapp.com/>
+### Random Quotes
+
+From <http://forismatic.com/en/>
+
+
+### CORS Anywhere
 
 An API that enables cross-origin requests to anywhere.
 
 
-### Using the Fetch API
+### Hero Patterns
 
-<https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API>
+Go to <http://heropatterns.com> and choose a nice svg background pattern.
+
+Copy the code and paste in the body part of the css file.
 
 
 ## Ideas
