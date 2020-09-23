@@ -39,5 +39,5 @@ Used for infinite scrolling:
 
 ## Ideas
 
-Infinite scrolling last released achievements from RetroAchievements.org
+Infinite scrolling the list of badges available in RetroAchievements.org
 
