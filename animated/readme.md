@@ -1,7 +1,7 @@
 # animated
 Just tweaking a template to learn how to use the [Animate On Screen library](https://michalsnik.github.io/aos/).
 
-See it alive in <https://meleu.github.io/js-practice/animate>
+See it alive in <https://meleu.github.io/js-practice/animated>
 
 ## Things I Learned
 
