@@ -19,10 +19,10 @@ Check it alive here: <https://meleu.github.io/js-practice/infinite-scroll>
 
 A generic page just to implement a dark theme switch.
 
-See it alive in <https://meleu.github.io/js-practice/light-dark-mode
+See it alive in <https://meleu.github.io/js-practice/light-dark-mode>
 
 ## animated
 
 Just tweaking a template to learn how to use the [Animate On Screen library](https://michalsnik.github.io/aos/).
 
-See it alive in <https://meleu.github.io/js-practice/animate>
+See it alive in <https://meleu.github.io/js-practice/animated>
